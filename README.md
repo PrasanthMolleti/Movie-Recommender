@@ -5,4 +5,4 @@ Different movie recommender systems are trained on 10K datapoints from the [Movi
 - **Content-Based Filtering** : Using the Content-Based filtering method.
 - **Memory-Based Colloaborative Filtering** : Using the Single Vector Decomposition method.
 - **Model-Based Colloaborative Filtering** : Using Matrix Factorization method.
-
+- **Deep Learning Embedded Filtering** : Using a Deep Neural Network.
